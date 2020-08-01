@@ -1,0 +1,11 @@
+C:\T2Ti ERP\ERP 3.0 Programas e Fontes\C#\t2ti-lib-sped-csharp-demo\T2TiLibSpedDemo\T2TiLibSpedDemo\bin\Debug\netcoreapp3.1\T2TiLibSpedDemo.exe
+C:\T2Ti ERP\ERP 3.0 Programas e Fontes\C#\t2ti-lib-sped-csharp-demo\T2TiLibSpedDemo\T2TiLibSpedDemo\bin\Debug\netcoreapp3.1\T2TiLibSpedDemo.deps.json
+C:\T2Ti ERP\ERP 3.0 Programas e Fontes\C#\t2ti-lib-sped-csharp-demo\T2TiLibSpedDemo\T2TiLibSpedDemo\bin\Debug\netcoreapp3.1\T2TiLibSpedDemo.runtimeconfig.json
+C:\T2Ti ERP\ERP 3.0 Programas e Fontes\C#\t2ti-lib-sped-csharp-demo\T2TiLibSpedDemo\T2TiLibSpedDemo\bin\Debug\netcoreapp3.1\T2TiLibSpedDemo.runtimeconfig.dev.json
+C:\T2Ti ERP\ERP 3.0 Programas e Fontes\C#\t2ti-lib-sped-csharp-demo\T2TiLibSpedDemo\T2TiLibSpedDemo\bin\Debug\netcoreapp3.1\T2TiLibSpedDemo.dll
+C:\T2Ti ERP\ERP 3.0 Programas e Fontes\C#\t2ti-lib-sped-csharp-demo\T2TiLibSpedDemo\T2TiLibSpedDemo\bin\Debug\netcoreapp3.1\T2TiLibSpedDemo.pdb
+C:\T2Ti ERP\ERP 3.0 Programas e Fontes\C#\t2ti-lib-sped-csharp-demo\T2TiLibSpedDemo\T2TiLibSpedDemo\obj\Debug\netcoreapp3.1\T2TiLibSpedDemo.csprojAssemblyReference.cache
+C:\T2Ti ERP\ERP 3.0 Programas e Fontes\C#\t2ti-lib-sped-csharp-demo\T2TiLibSpedDemo\T2TiLibSpedDemo\obj\Debug\netcoreapp3.1\T2TiLibSpedDemo.AssemblyInfoInputs.cache
+C:\T2Ti ERP\ERP 3.0 Programas e Fontes\C#\t2ti-lib-sped-csharp-demo\T2TiLibSpedDemo\T2TiLibSpedDemo\obj\Debug\netcoreapp3.1\T2TiLibSpedDemo.AssemblyInfo.cs
+C:\T2Ti ERP\ERP 3.0 Programas e Fontes\C#\t2ti-lib-sped-csharp-demo\T2TiLibSpedDemo\T2TiLibSpedDemo\obj\Debug\netcoreapp3.1\T2TiLibSpedDemo.dll
+C:\T2Ti ERP\ERP 3.0 Programas e Fontes\C#\t2ti-lib-sped-csharp-demo\T2TiLibSpedDemo\T2TiLibSpedDemo\obj\Debug\netcoreapp3.1\T2TiLibSpedDemo.pdb

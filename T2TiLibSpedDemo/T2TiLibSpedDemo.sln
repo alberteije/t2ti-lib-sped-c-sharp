@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T2TiLibSpedDemo", "T2TiLibSpedDemo\T2TiLibSpedDemo.csproj", "{6DA28E26-1A19-46AE-86AF-BC92A628B3F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DA28E26-1A19-46AE-86AF-BC92A628B3F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA28E26-1A19-46AE-86AF-BC92A628B3F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA28E26-1A19-46AE-86AF-BC92A628B3F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA28E26-1A19-46AE-86AF-BC92A628B3F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07FC88A0-0B6D-4C1F-BB6B-750EEB9D357E}
+	EndGlobalSection
+EndGlobal
