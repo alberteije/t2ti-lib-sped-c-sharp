@@ -14,5 +14,5 @@
   Para você compreender como a biblioteca foi desenvolvida, nós subimos alguns vídeos para uma playlist no youtube. Esses vídeos mostram como a biblioteca foi originalmente pensada e desenvolvida em Java para o T2Ti ERP 1.0 e como a mesma foi adaptada para funcionar no T2Ti ERP 3.0 na linguagem C#. Segue o link para a playlist:
   <br />
   <br />
-  <a href="https://www.youtube.com/playlist?list=PLMqoOoxxICPdkZyhvhkH8eS46Bfd70X0O">https://www.youtube.com/playlist?list=PLMqoOoxxICPdkZyhvhkH8eS46Bfd70X0O</a>
+  <a href="https://www.youtube.com/playlist?list=PLMqoOoxxICPcwyVaGbO-nfKmT1KttgBeB">https://www.youtube.com/playlist?list=PLMqoOoxxICPcwyVaGbO-nfKmT1KttgBeB</a>
 </html>
